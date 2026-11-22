@@ -1,0 +1,9 @@
+{
+  "name": "jabra-ai",
+  "main": "worker.js",
+  "compatibility_date": "2026-11-19",
+  "assets": {
+    "directory": ".",
+    "binding": "ASSETS"
+  }
+}
