@@ -1,0 +1,10 @@
+{
+  "name": "JABRA AI",
+  "description": "Bilingual English and Hindi AI assistant powered by Google Gemini with real-time streaming, voice input, and installable PWA support.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
